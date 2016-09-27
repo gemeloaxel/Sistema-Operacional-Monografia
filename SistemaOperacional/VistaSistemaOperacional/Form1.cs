@@ -8,13 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace frmLogin
+namespace VistaSistemaOperacional
 {
-    public partial class Form1 : Form
+    public partial class Form1 : DevComponents.DotNetBar.OfficeForm
     {
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+           
         }
     }
 }
