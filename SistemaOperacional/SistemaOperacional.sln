@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistaSistema", "VistaSistema\VistaSistema.csproj", "{3AAABB9C-E55D-475A-9A43-21B9440344D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frmLogin", "frmLogin\frmLogin.csproj", "{EA8BFB93-8DF5-4EBB-B71E-74CE27C0027D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3AAABB9C-E55D-475A-9A43-21B9440344D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3AAABB9C-E55D-475A-9A43-21B9440344D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3AAABB9C-E55D-475A-9A43-21B9440344D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3AAABB9C-E55D-475A-9A43-21B9440344D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA8BFB93-8DF5-4EBB-B71E-74CE27C0027D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8BFB93-8DF5-4EBB-B71E-74CE27C0027D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8BFB93-8DF5-4EBB-B71E-74CE27C0027D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8BFB93-8DF5-4EBB-B71E-74CE27C0027D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
